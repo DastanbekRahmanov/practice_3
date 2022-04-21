@@ -1,0 +1,13 @@
+
+.mini-div {
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+    border: 1px solid black;
+    width: 300px;
+    height: 350px;
+}
+.img {
+	width: 100px;
+	height: 80px;
+}
